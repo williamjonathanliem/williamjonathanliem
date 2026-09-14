@@ -1,7 +1,7 @@
 ## Hello World! I'm William Jonathan. 
 
 # 💫 About Me:
-🎓 Software Engineering student @ APU <br>🧠 Fullstack Developer in AI @ NUS <br>🏢 Fullstack & Software Developer </br>🏅 Sports, Games, Music, and my faith in God keeps me going! </br>
+🎓 Software Engineering student @ APU <br>🧠 Fullstack Developer in AI @ NUS <br>🏢 Fullstack & Software Developer </br>🏅 Sports, Games, Music, and my food keeps me going! </br>
 Student GitHub user! Excuse the inactivity 😂</br>
 
 
